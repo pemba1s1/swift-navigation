@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Aesops_Fables_Lion_Bear_And_Fox_By_Milo_Winter.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
